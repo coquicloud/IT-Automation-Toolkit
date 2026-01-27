@@ -1,6 +1,6 @@
 # 🛠️ IT Automation & SysAdmin Toolkit
 
-## NOTICE > *ToolKitLauncher.ps1 it's been debuging*
+## NOTICE > *ToolKitLauncher.ps1 it's been debugging*
 
 Welcome to the **Coqui Cloud IT Automation Toolkit**. This repository is a curated collection of PowerShell and Batch scripts designed to streamline system administration, enhance security auditing, and automate repetitive IT tasks.
 
